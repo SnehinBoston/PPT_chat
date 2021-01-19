@@ -1,0 +1,27 @@
+English	Json
+"Create a pie chart having title as Sales, categories as Russia, India and Bangladesh, percentages as 30, 30 and 40."	"create_pie_chart
+title: [""Sales""]
+categories: [""Russia"", ""India"", ""Bangladesh""]
+percentages: [30.0, 30.0, 40.0]"
+Create a team slide having John and Mike.	"create_team_slide
+people: [""John"",""Mike""]"
+Create a presentation having 10 slides on India from nytimes	"create_ppt_count
+title: [""India""]
+count: [""10""]
+source: [""nytimes""]"
+"Create a bar chart having categories Russia, Russia and Russia and values 20, 20 and 30."	"create_bar_chart
+categories: [""Russia"", ""Russia"", ""Russia""]
+values: [20, 20,30]"
+Create a line chart having labels as India and Bangladesh and values as 20 and 30.	"create_line_chart
+Label: [""India"", ""Bangladesh""]
+Value: [20, 30]"
+Create a presentation having title as India from wikipedia.	"create_ppt
+title: [""India""]
+source: [""wikipedia""]"
+Create a presentation on India from Wikipedia having 10 slides.	"create_ppt_count
+title: [""India""]
+count: [10]
+source: [""wikipedia""]"
+Create a presentation on India from nytimes.	"create_ppt
+title: [""India""]
+source: [""nytimes""]"
